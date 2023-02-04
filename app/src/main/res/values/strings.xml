@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseNotification</string>
+    <string name="default_notification_channel_id">Hello text</string>
+    <string name="msg_token_fmt">msg</string>
+    <string name="subscribe_to_weather">subscribe_to_weather</string>
+    <string name="quickstart_message">quickstart_message</string>
+    <string name="log_token">log_token</string>
+    <string name="fcm_message">fcm_message</string>
+</resources>
